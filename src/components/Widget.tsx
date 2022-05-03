@@ -13,4 +13,4 @@ export function Widget() {
       </Popover.Button>
     </Popover>
   )
-}
+};
